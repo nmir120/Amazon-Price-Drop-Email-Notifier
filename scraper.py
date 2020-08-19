@@ -42,3 +42,4 @@ while True:
             emailer(message)
     time.sleep(43000) #once every 12 hours
     count += 1
+    
